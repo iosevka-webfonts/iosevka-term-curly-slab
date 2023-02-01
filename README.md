@@ -1,1 +1,6 @@
-<built-in method capitalize of str object at 0x7fce4f157690> - version 17.1.0
+# Iosevka-term-curly-slab WebFont 17.1.0
+
+## How to use
+
+- Add `<link href="https://iosevkawebfonts.github.io/Iosevka-term-curly-slab/Iosevka-term-curly-slab.css" rel="stylesheet" />` to your `<head>`.
+- Use `fontFamily: 'Iosevka term curly slab Web'` or `font-family: 'Iosevka term curly slab Web'`.
